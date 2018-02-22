@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>wether</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <circle class="cls-2" cx="98.8" cy="101.56" r="35.45"/>
+  <circle class="cls-2" cx="156.07" cy="101.56" r="35.45"/>
+  <circle class="cls-2" cx="197.28" cy="137.01" r="35.45"/>
+  <circle class="cls-2" cx="134.25" cy="156.83" r="35.45"/>
+  <circle class="cls-2" cx="69.4" cy="144.1" r="35.45"/>
+</svg>

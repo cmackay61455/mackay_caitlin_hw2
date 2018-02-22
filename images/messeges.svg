@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>messeges</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <ellipse class="cls-2" cx="141.63" cy="120.67" rx="78.99" ry="64.42"/>
+  <path class="cls-2" d="M303.62,250.51c.82,8.86-28.78,17.62-32.73,18.79-10.82,3.2-19,3.73-19.39,2.42-.63-2,18.59-5.93,21.21-17.58,1.33-5.93-2.68-9.25-.61-12.12C276.67,235.72,302.87,242.39,303.62,250.51Z" transform="translate(-170.87 -70.87)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="symbols" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>magnifyangGlass</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="289.97" y="210.01" width="97.63" height="24.85" rx="12" ry="12" transform="translate(-14.26 -210.46) rotate(30)"/>
+  <circle class="cls-2" cx="116.43" cy="121.84" r="50.89"/>
+  <circle class="cls-1" cx="116.43" cy="121.84" r="30.49"/>
+  <path class="cls-2" d="M283.32,167s-8.17,1.9-4.23,8.32c0,0,2.42,1.75,8.21-1.46a9.93,9.93,0,0,1,10.31,0l2.38,1.94S299.37,165.37,283.32,167Z" transform="translate(-170.87 -70.87)"/>
+</svg>

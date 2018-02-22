@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>youtube</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="42.46" y="77.92" width="173.33" height="102.42" rx="12" ry="12"/>
+  <path class="cls-1" d="M291.66,181.86l29.91,17.27a3.26,3.26,0,0,1,0,5.65L291.66,222a3.26,3.26,0,0,1-4.89-2.83V184.69A3.26,3.26,0,0,1,291.66,181.86Z" transform="translate(-170.87 -70.87)"/>
+</svg>

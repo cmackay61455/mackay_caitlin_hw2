@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>pen</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="282.92" y="140.94" width="34.16" height="113.04" rx="12" ry="12" transform="translate(56.62 -225.17) rotate(45)"/>
+  <rect class="cls-2" x="237.83" y="231.59" width="18.87" height="33.16" rx="7.45" ry="7.45" transform="translate(-273.93 176.66) rotate(-45)"/>
+  <path class="cls-2" d="M231.47,267,254,263.37a2.6,2.6,0,0,0,1.42-4.4L236.52,240a2.6,2.6,0,0,0-4.4,1.42L228.49,264A2.6,2.6,0,0,0,231.47,267Z" transform="translate(-170.87 -70.87)"/>
+  <rect class="cls-2" x="341.61" y="127.87" width="18.87" height="33.16" rx="7.45" ry="7.45" transform="translate(-170.19 219.66) rotate(-45)"/>
+</svg>
