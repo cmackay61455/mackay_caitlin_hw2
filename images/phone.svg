@@ -1,0 +1,18 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>phone</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="79.44" y="38.45" width="99.38" height="181.37" rx="12" ry="12"/>
+  <rect class="cls-1" x="91.08" y="51.29" width="75.78" height="140.37" rx="12" ry="12"/>
+  <circle class="cls-1" cx="128.96" cy="205.95" r="9.94"/>
+</svg>

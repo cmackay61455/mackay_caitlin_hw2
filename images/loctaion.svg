@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>loctaion</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <circle class="cls-2" cx="129.13" cy="91.04" r="45.34"/>
+  <ellipse class="cls-2" cx="131.14" cy="208.44" rx="69.25" ry="20.5"/>
+  <ellipse class="cls-1" cx="129.13" cy="208.44" rx="49.3" ry="9.32"/>
+  <path class="cls-2" d="M298.15,249.42,259.74,182.9a2.14,2.14,0,0,1,1.85-3.2h76.82a2.14,2.14,0,0,1,1.85,3.2l-38.41,66.53A2.14,2.14,0,0,1,298.15,249.42Z" transform="translate(-170.87 -70.87)"/>
+  <circle class="cls-1" cx="129.13" cy="87.23" r="21.59"/>
+</svg>

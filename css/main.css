@@ -1,0 +1,149 @@
+main
+{
+text-align: center;
+
+}
+
+.container
+{
+width: 48%;
+display: inline-block;
+}
+
+.container img
+{display: block;
+width: 100%}
+
+#pen
+{
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+#pen:hover
+{
+  margin-top: 5px;
+}
+
+
+#magnifyangGlass
+{
+  height: 200px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+#magnifyangGlass:hover
+{
+  margin-top: 5px;
+}
+
+#location
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+#location:hover
+{
+  margin-top: 5px;
+}
+
+#menu
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#menu:hover
+{
+  margin-top: 5px;
+}
+
+#phone
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#phone:hover
+{
+  margin-top: 5px;
+}
+
+#instagram
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#instagram:hover
+{
+  margin-top: 5px;
+}
+
+#fitness
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#fitness:hover
+{
+  margin-top: 5px;
+}
+
+#messages
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#message:hover
+{
+  margin-top: 5px;
+}
+
+#weather
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#weather:hover
+{
+  margin-top: 5px;
+}
+
+#camara
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#camara
+{
+  margin-top: 5px;
+}
+
+
+
+#youtube
+{
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#youtube:hover
+{
+  margin-top: 5px;
+}

@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>fitness</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="108.26" y="126.18" width="40.89" height="7.69" rx="3.85" ry="3.85"/>
+  <rect class="cls-2" x="71.42" y="94.27" width="34.77" height="71.51" rx="12" ry="12"/>
+  <rect class="cls-2" x="151.2" y="94.27" width="34.76" height="71.51" rx="12" ry="12"/>
+  <rect class="cls-2" x="188.15" y="108.93" width="24" height="48.1" rx="12" ry="12"/>
+  <rect class="cls-2" x="45.21" y="108.93" width="24" height="48.1" rx="12" ry="12"/>
+  <rect class="cls-2" x="213.17" y="130.02" width="7.69" height="7.69" rx="3.85" ry="3.85"/>
+  <rect class="cls-2" x="207.4" y="197.05" width="7.69" height="7.69" rx="3.85" ry="3.85" transform="translate(-248.78 92.99) rotate(-36.26)"/>
+</svg>

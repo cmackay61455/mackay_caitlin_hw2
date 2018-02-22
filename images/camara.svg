@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258.26 258.26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999696;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>camara</title>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="129.13"/>
+  <rect class="cls-2" x="42.46" y="77.92" width="173.33" height="102.42" rx="12" ry="12"/>
+  <rect class="cls-2" x="97.93" y="56.81" width="62.39" height="36.87" rx="12" ry="12"/>
+  <rect class="cls-2" x="63.1" y="69.56" width="22.42" height="5.45" rx="2.73" ry="2.73"/>
+  <circle class="cls-1" cx="129.13" cy="129.13" r="30.25"/>
+  <circle class="cls-2" cx="129.13" cy="129.13" r="26.05"/>
+  <circle class="cls-1" cx="171.35" cy="93.68" r="3.51"/>
+</svg>
